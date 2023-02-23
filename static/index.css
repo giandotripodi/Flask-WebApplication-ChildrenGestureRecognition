@@ -1,0 +1,12 @@
+body {
+    background-color: #222831;
+}
+
+.container {
+    height: 30vh;
+    background-color: #393e46;
+}
+
+.header {
+    margin-bottom: 7vh!important;
+}
